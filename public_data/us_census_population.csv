@@ -1,0 +1,1330 @@
+Year,State,Census population
+1790,Alabama,0
+1800,Alabama,1250
+1810,Alabama,9046
+1820,Alabama,127901
+1830,Alabama,309527
+1840,Alabama,590756
+1850,Alabama,771623
+1860,Alabama,964201
+1790,Alaska,0
+1800,Alaska,0
+1810,Alaska,0
+1820,Alaska,0
+1830,Alaska,0
+1840,Alaska,0
+1850,Alaska,0
+1860,Alaska,0
+1790,American Samoa,0
+1800,American Samoa,0
+1810,American Samoa,0
+1820,American Samoa,0
+1830,American Samoa,0
+1840,American Samoa,0
+1850,American Samoa,0
+1860,American Samoa,0
+1790,Arizona,0
+1800,Arizona,0
+1810,Arizona,0
+1820,Arizona,0
+1830,Arizona,0
+1840,Arizona,0
+1850,Arizona,0
+1860,Arizona,0
+1790,Arkansas,0
+1800,Arkansas,0
+1810,Arkansas,1062
+1820,Arkansas,14273
+1830,Arkansas,30388
+1840,Arkansas,97574
+1850,Arkansas,209897
+1860,Arkansas,435450
+1790,California,0
+1800,California,0
+1810,California,0
+1820,California,0
+1830,California,0
+1840,California,0
+1850,California,92597
+1860,California,379994
+1790,Colorado,0
+1800,Colorado,0
+1810,Colorado,0
+1820,Colorado,0
+1830,Colorado,0
+1840,Colorado,0
+1850,Colorado,0
+1860,Colorado,34277
+1790,Connecticut,237946
+1800,Connecticut,251002
+1810,Connecticut,262042
+1820,Connecticut,275202
+1830,Connecticut,297675
+1840,Connecticut,309978
+1850,Connecticut,370792
+1860,Connecticut,460147
+1790,Delaware,59096
+1800,Delaware,64273
+1810,Delaware,72674
+1820,Delaware,72749
+1830,Delaware,76748
+1840,Delaware,78085
+1850,Delaware,91532
+1860,Delaware,112216
+1790,"Washington, D.C.",0
+1800,"Washington, D.C.",8144
+1810,"Washington, D.C.",15471
+1820,"Washington, D.C.",23336
+1830,"Washington, D.C.",30261
+1840,"Washington, D.C.",33745
+1850,"Washington, D.C.",51687
+1860,"Washington, D.C.",75080
+1790,Florida,0
+1800,Florida,0
+1810,Florida,0
+1820,Florida,0
+1830,Florida,34730
+1840,Florida,54477
+1850,Florida,87445
+1860,Florida,140424
+1790,Georgia (U.S. state),82548
+1800,Georgia (U.S. state),162686
+1810,Georgia (U.S. state),251407
+1820,Georgia (U.S. state),340989
+1830,Georgia (U.S. state),516823
+1840,Georgia (U.S. state),691392
+1850,Georgia (U.S. state),906185
+1860,Georgia (U.S. state),1057286
+1790,Guam,0
+1800,Guam,0
+1810,Guam,0
+1820,Guam,0
+1830,Guam,0
+1840,Guam,0
+1850,Guam,0
+1860,Guam,0
+1790,Hawaii,0
+1800,Hawaii,0
+1810,Hawaii,0
+1820,Hawaii,0
+1830,Hawaii,0
+1840,Hawaii,0
+1850,Hawaii,0
+1860,Hawaii,0
+1790,Idaho,0
+1800,Idaho,0
+1810,Idaho,0
+1820,Idaho,0
+1830,Idaho,0
+1840,Idaho,0
+1850,Idaho,0
+1860,Idaho,0
+1790,Illinois,0
+1800,Illinois,2458
+1810,Illinois,12282
+1820,Illinois,55211
+1830,Illinois,157445
+1840,Illinois,476183
+1850,Illinois,851470
+1860,Illinois,1711951
+1790,Indiana,0
+1800,Indiana,2632
+1810,Indiana,24520
+1820,Indiana,147178
+1830,Indiana,343031
+1840,Indiana,685866
+1850,Indiana,988416
+1860,Indiana,1350428
+1790,Iowa,0
+1800,Iowa,0
+1810,Iowa,0
+1820,Iowa,0
+1830,Iowa,0
+1840,Iowa,43112
+1850,Iowa,192214
+1860,Iowa,674913
+1790,Kansas,0
+1800,Kansas,0
+1810,Kansas,0
+1820,Kansas,0
+1830,Kansas,0
+1840,Kansas,0
+1850,Kansas,0
+1860,Kansas,107206
+1790,Kentucky,73677
+1800,Kentucky,220959
+1810,Kentucky,406511
+1820,Kentucky,564317
+1830,Kentucky,687917
+1840,Kentucky,779828
+1850,Kentucky,982405
+1860,Kentucky,1155684
+1790,Louisiana,0
+1800,Louisiana,0
+1810,Louisiana,76556
+1820,Louisiana,153407
+1830,Louisiana,215739
+1840,Louisiana,352411
+1850,Louisiana,517762
+1860,Louisiana,708002
+1790,Maine,96540
+1800,Maine,151719
+1810,Maine,228705
+1820,Maine,298335
+1830,Maine,399455
+1840,Maine,501793
+1850,Maine,583169
+1860,Maine,628279
+1790,Maryland,319728
+1800,Maryland,341548
+1810,Maryland,380546
+1820,Maryland,407350
+1830,Maryland,447040
+1840,Maryland,470019
+1850,Maryland,583034
+1860,Maryland,687049
+1790,Massachusetts,378787
+1800,Massachusetts,422845
+1810,Massachusetts,472040
+1820,Massachusetts,523287
+1830,Massachusetts,610408
+1840,Massachusetts,737699
+1850,Massachusetts,994514
+1860,Massachusetts,1231066
+1790,Michigan,0
+1800,Michigan,3757
+1810,Michigan,4762
+1820,Michigan,7452
+1830,Michigan,28004
+1840,Michigan,212267
+1850,Michigan,397654
+1860,Michigan,749113
+1790,Minnesota,0
+1800,Minnesota,0
+1810,Minnesota,0
+1820,Minnesota,0
+1830,Minnesota,0
+1840,Minnesota,0
+1850,Minnesota,6077
+1860,Minnesota,172023
+1790,Mississippi,0
+1800,Mississippi,7600
+1810,Mississippi,31306
+1820,Mississippi,75448
+1830,Mississippi,136621
+1840,Mississippi,375651
+1850,Mississippi,606526
+1860,Mississippi,791305
+1790,Missouri,0
+1800,Missouri,0
+1810,Missouri,19783
+1820,Missouri,66586
+1830,Missouri,140455
+1840,Missouri,383702
+1850,Missouri,682044
+1860,Missouri,1182012
+1790,Montana,0
+1800,Montana,0
+1810,Montana,0
+1820,Montana,0
+1830,Montana,0
+1840,Montana,0
+1850,Montana,0
+1860,Montana,0
+1790,Nebraska,0
+1800,Nebraska,0
+1810,Nebraska,0
+1820,Nebraska,0
+1830,Nebraska,0
+1840,Nebraska,0
+1850,Nebraska,0
+1860,Nebraska,28841
+1790,Nevada,0
+1800,Nevada,0
+1810,Nevada,0
+1820,Nevada,0
+1830,Nevada,0
+1840,Nevada,0
+1850,Nevada,0
+1860,Nevada,6857
+1790,New Hampshire,141885
+1800,New Hampshire,183858
+1810,New Hampshire,214360
+1820,New Hampshire,244161
+1830,New Hampshire,269328
+1840,New Hampshire,284574
+1850,New Hampshire,317976
+1860,New Hampshire,326073
+1790,New Jersey,184139
+1800,New Jersey,211149
+1810,New Jersey,245555
+1820,New Jersey,277575
+1830,New Jersey,320823
+1840,New Jersey,373306
+1850,New Jersey,489555
+1860,New Jersey,672035
+1790,New Mexico,0
+1800,New Mexico,0
+1810,New Mexico,0
+1820,New Mexico,0
+1830,New Mexico,0
+1840,New Mexico,0
+1850,New Mexico,61547
+1860,New Mexico,87034
+1790,New York (state),340120
+1800,New York (state),586050
+1810,New York (state),959049
+1820,New York (state),1372812
+1830,New York (state),1918608
+1840,New York (state),2428921
+1850,New York (state),3097394
+1860,New York (state),3880735
+1790,North Carolina,393751
+1800,North Carolina,478103
+1810,North Carolina,556526
+1820,North Carolina,638829
+1830,North Carolina,737987
+1840,North Carolina,753419
+1850,North Carolina,869039
+1860,North Carolina,992622
+1790,North Dakota,0
+1800,North Dakota,0
+1810,North Dakota,0
+1820,North Dakota,0
+1830,North Dakota,0
+1840,North Dakota,0
+1850,North Dakota,0
+1860,North Dakota,0
+1790,Northern Mariana Islands,0
+1800,Northern Mariana Islands,0
+1810,Northern Mariana Islands,0
+1820,Northern Mariana Islands,0
+1830,Northern Mariana Islands,0
+1840,Northern Mariana Islands,0
+1850,Northern Mariana Islands,0
+1860,Northern Mariana Islands,0
+1790,Ohio,0
+1800,Ohio,42159
+1810,Ohio,230760
+1820,Ohio,581434
+1830,Ohio,937903
+1840,Ohio,1519467
+1850,Ohio,1980329
+1860,Ohio,2339511
+1790,Oklahoma,0
+1800,Oklahoma,0
+1810,Oklahoma,0
+1820,Oklahoma,0
+1830,Oklahoma,0
+1840,Oklahoma,0
+1850,Oklahoma,0
+1860,Oklahoma,0
+1790,Oregon,0
+1800,Oregon,0
+1810,Oregon,0
+1820,Oregon,0
+1830,Oregon,0
+1840,Oregon,0
+1850,Oregon,12093
+1860,Oregon,52465
+1790,Pennsylvania,434373
+1800,Pennsylvania,602545
+1810,Pennsylvania,810091
+1820,Pennsylvania,1049458
+1830,Pennsylvania,1348233
+1840,Pennsylvania,1724033
+1850,Pennsylvania,2311786
+1860,Pennsylvania,2906215
+1790,Puerto Rico,0
+1800,Puerto Rico,0
+1810,Puerto Rico,0
+1820,Puerto Rico,0
+1830,Puerto Rico,0
+1840,Puerto Rico,0
+1850,Puerto Rico,0
+1860,Puerto Rico,0
+1790,Rhode Island,68825
+1800,Rhode Island,69122
+1810,Rhode Island,76931
+1820,Rhode Island,83059
+1830,Rhode Island,97199
+1840,Rhode Island,108830
+1850,Rhode Island,147545
+1860,Rhode Island,174620
+1790,South Carolina,249073
+1800,South Carolina,345591
+1810,South Carolina,415115
+1820,South Carolina,502741
+1830,South Carolina,581185
+1840,South Carolina,594398
+1850,South Carolina,668507
+1860,South Carolina,703708
+1790,South Dakota,0
+1800,South Dakota,0
+1810,South Dakota,0
+1820,South Dakota,0
+1830,South Dakota,0
+1840,South Dakota,0
+1850,South Dakota,0
+1860,South Dakota,4837
+1790,Tennessee,35691
+1800,Tennessee,105602
+1810,Tennessee,261727
+1820,Tennessee,422813
+1830,Tennessee,681904
+1840,Tennessee,829210
+1850,Tennessee,1002717
+1860,Tennessee,1109801
+1790,Texas,0
+1800,Texas,0
+1810,Texas,0
+1820,Texas,0
+1830,Texas,0
+1840,Texas,0
+1850,Texas,212592
+1860,Texas,604215
+1790,United States Virgin Islands,0
+1800,United States Virgin Islands,0
+1810,United States Virgin Islands,0
+1820,United States Virgin Islands,0
+1830,United States Virgin Islands,0
+1840,United States Virgin Islands,0
+1850,United States Virgin Islands,0
+1860,United States Virgin Islands,0
+1790,Utah,0
+1800,Utah,0
+1810,Utah,0
+1820,Utah,0
+1830,Utah,0
+1840,Utah,0
+1850,Utah,11380
+1860,Utah,40273
+1790,Vermont,85425
+1800,Vermont,154465
+1810,Vermont,217713
+1820,Vermont,235764
+1830,Vermont,280652
+1840,Vermont,291948
+1850,Vermont,314120
+1860,Vermont,315098
+1790,Virginia,691937
+1800,Virginia,807557
+1810,Virginia,877683
+1820,Virginia,938261
+1830,Virginia,1044054
+1840,Virginia,1025227
+1850,Virginia,1119348
+1860,Virginia,1219630
+1790,Washington (state),0
+1800,Washington (state),0
+1810,Washington (state),0
+1820,Washington (state),0
+1830,Washington (state),0
+1840,Washington (state),0
+1850,Washington (state),1201
+1860,Washington (state),11594
+1790,West Virginia,55873
+1800,West Virginia,78592
+1810,West Virginia,105469
+1820,West Virginia,136808
+1830,West Virginia,176924
+1840,West Virginia,224537
+1850,West Virginia,302313
+1860,West Virginia,376688
+1790,Wisconsin,0
+1800,Wisconsin,0
+1810,Wisconsin,0
+1820,Wisconsin,1444
+1830,Wisconsin,3635
+1840,Wisconsin,30945
+1850,Wisconsin,305391
+1860,Wisconsin,775881
+1790,Wyoming,0
+1800,Wyoming,0
+1810,Wyoming,0
+1820,Wyoming,0
+1830,Wyoming,0
+1840,Wyoming,0
+1850,Wyoming,0
+1860,Wyoming,0
+1790,United States,3929214
+1800,United States,5308483
+1810,United States,7239881
+1820,United States,9638453
+1830,United States,12860702
+1840,United States,17063353
+1850,United States,23191876
+1860,United States,31443321
+1870,Alabama,996992
+1880,Alabama,1262505
+1890,Alabama,1513017
+1900,Alabama,1828697
+1910,Alabama,2138093
+1920,Alabama,2348174
+1930,Alabama,2646248
+1940,Alabama,2832961
+1950,Alabama,3061743
+1870,Alaska,0
+1880,Alaska,0
+1890,Alaska,33426
+1900,Alaska,32052
+1910,Alaska,64356
+1920,Alaska,55036
+1930,Alaska,59278
+1940,Alaska,72524
+1950,Alaska,128643
+1870,American Samoa,0
+1880,American Samoa,0
+1890,American Samoa,0
+1900,American Samoa,0
+1910,American Samoa,0
+1920,American Samoa,0
+1930,American Samoa,0
+1940,American Samoa,12908
+1950,American Samoa,24889
+1870,Arizona,9658
+1880,Arizona,40440
+1890,Arizona,88243
+1900,Arizona,122931
+1910,Arizona,204354
+1920,Arizona,334162
+1930,Arizona,435573
+1940,Arizona,499261
+1950,Arizona,749587
+1870,Arkansas,484471
+1880,Arkansas,802525
+1890,Arkansas,1128211
+1900,Arkansas,1311564
+1910,Arkansas,1574449
+1920,Arkansas,1752204
+1930,Arkansas,1854482
+1940,Arkansas,1949387
+1950,Arkansas,1909511
+1870,California,560247
+1880,California,864694
+1890,California,1213398
+1900,California,1485053
+1910,California,2377549
+1920,California,3426861
+1930,California,5677251
+1940,California,6907387
+1950,California,10586223
+1870,Colorado,39864
+1880,Colorado,194327
+1890,Colorado,413249
+1900,Colorado,539700
+1910,Colorado,799024
+1920,Colorado,939629
+1930,Colorado,1035791
+1940,Colorado,1123296
+1950,Colorado,1325089
+1870,Connecticut,537454
+1880,Connecticut,622700
+1890,Connecticut,746258
+1900,Connecticut,908420
+1910,Connecticut,1114756
+1920,Connecticut,1380631
+1930,Connecticut,1606903
+1940,Connecticut,1709242
+1950,Connecticut,2007280
+1870,Delaware,125015
+1880,Delaware,146608
+1890,Delaware,168493
+1900,Delaware,184735
+1910,Delaware,202322
+1920,Delaware,223003
+1930,Delaware,238380
+1940,Delaware,266505
+1950,Delaware,318085
+1870,"Washington, D.C.",131700
+1880,"Washington, D.C.",177624
+1890,"Washington, D.C.",230392
+1900,"Washington, D.C.",278718
+1910,"Washington, D.C.",331069
+1920,"Washington, D.C.",437571
+1930,"Washington, D.C.",486869
+1940,"Washington, D.C.",663091
+1950,"Washington, D.C.",802178
+1870,Florida,187748
+1880,Florida,269493
+1890,Florida,391422
+1900,Florida,528542
+1910,Florida,752619
+1920,Florida,968470
+1930,Florida,1468211
+1940,Florida,1897414
+1950,Florida,2771305
+1870,Georgia (U.S. state),1184109
+1880,Georgia (U.S. state),1542180
+1890,Georgia (U.S. state),1837353
+1900,Georgia (U.S. state),2216331
+1910,Georgia (U.S. state),2609121
+1920,Georgia (U.S. state),2895832
+1930,Georgia (U.S. state),2908506
+1940,Georgia (U.S. state),3123723
+1950,Georgia (U.S. state),3444578
+1870,Guam,0
+1880,Guam,0
+1890,Guam,0
+1900,Guam,0
+1910,Guam,11806
+1920,Guam,13275
+1930,Guam,18509
+1940,Guam,22290
+1950,Guam,59498
+1870,Hawaii,0
+1880,Hawaii,0
+1890,Hawaii,0
+1900,Hawaii,154001
+1910,Hawaii,191909
+1920,Hawaii,255912
+1930,Hawaii,368336
+1940,Hawaii,423330
+1950,Hawaii,499794
+1870,Idaho,14999
+1880,Idaho,32610
+1890,Idaho,88548
+1900,Idaho,161772
+1910,Idaho,325594
+1920,Idaho,431866
+1930,Idaho,445032
+1940,Idaho,524873
+1950,Idaho,588637
+1870,Illinois,2539891
+1880,Illinois,3077871
+1890,Illinois,3826351
+1900,Illinois,4821550
+1910,Illinois,5638591
+1920,Illinois,6485280
+1930,Illinois,7630654
+1940,Illinois,7897241
+1950,Illinois,8712176
+1870,Indiana,1680637
+1880,Indiana,1978301
+1890,Indiana,2192404
+1900,Indiana,2516462
+1910,Indiana,2700876
+1920,Indiana,2930390
+1930,Indiana,3238503
+1940,Indiana,3427796
+1950,Indiana,3934224
+1870,Iowa,1194020
+1880,Iowa,1624615
+1890,Iowa,1912297
+1900,Iowa,2231853
+1910,Iowa,2224771
+1920,Iowa,2404021
+1930,Iowa,2470939
+1940,Iowa,2538268
+1950,Iowa,2621073
+1870,Kansas,364399
+1880,Kansas,996096
+1890,Kansas,1428108
+1900,Kansas,1470495
+1910,Kansas,1690949
+1920,Kansas,1769257
+1930,Kansas,1880999
+1940,Kansas,1801028
+1950,Kansas,1905299
+1870,Kentucky,1321011
+1880,Kentucky,1648690
+1890,Kentucky,1858635
+1900,Kentucky,2147174
+1910,Kentucky,2289905
+1920,Kentucky,2416630
+1930,Kentucky,2614589
+1940,Kentucky,2845627
+1950,Kentucky,2944806
+1870,Louisiana,726915
+1880,Louisiana,939946
+1890,Louisiana,1118587
+1900,Louisiana,1381625
+1910,Louisiana,1656388
+1920,Louisiana,1798509
+1930,Louisiana,2101593
+1940,Louisiana,2363880
+1950,Louisiana,2683516
+1870,Maine,626915
+1880,Maine,648936
+1890,Maine,661086
+1900,Maine,694466
+1910,Maine,742371
+1920,Maine,768014
+1930,Maine,797423
+1940,Maine,847226
+1950,Maine,913774
+1870,Maryland,780894
+1880,Maryland,934943
+1890,Maryland,1042390
+1900,Maryland,1188044
+1910,Maryland,1295346
+1920,Maryland,1449661
+1930,Maryland,1631526
+1940,Maryland,1821244
+1950,Maryland,2343001
+1870,Massachusetts,1457351
+1880,Massachusetts,1783085
+1890,Massachusetts,2238943
+1900,Massachusetts,2805346
+1910,Massachusetts,3366416
+1920,Massachusetts,3852356
+1930,Massachusetts,4249614
+1940,Massachusetts,4316721
+1950,Massachusetts,4690514
+1870,Michigan,1184059
+1880,Michigan,1636937
+1890,Michigan,2093889
+1900,Michigan,2420982
+1910,Michigan,2810173
+1920,Michigan,3668412
+1930,Michigan,4842325
+1940,Michigan,5256106
+1950,Michigan,6371766
+1870,Minnesota,439706
+1880,Minnesota,780773
+1890,Minnesota,1310283
+1900,Minnesota,1751394
+1910,Minnesota,2075708
+1920,Minnesota,2387125
+1930,Minnesota,2563953
+1940,Minnesota,2792300
+1950,Minnesota,2982483
+1870,Mississippi,827922
+1880,Mississippi,1131597
+1890,Mississippi,1289600
+1900,Mississippi,1551270
+1910,Mississippi,1797114
+1920,Mississippi,1790618
+1930,Mississippi,2009821
+1940,Mississippi,2183796
+1950,Mississippi,2178914
+1870,Missouri,1721295
+1880,Missouri,2168380
+1890,Missouri,2679184
+1900,Missouri,3106665
+1910,Missouri,3293335
+1920,Missouri,3404055
+1930,Missouri,3629367
+1940,Missouri,3784664
+1950,Missouri,3954653
+1870,Montana,20595
+1880,Montana,39159
+1890,Montana,142924
+1900,Montana,243329
+1910,Montana,376053
+1920,Montana,548889
+1930,Montana,537606
+1940,Montana,559456
+1950,Montana,591024
+1870,Nebraska,122993
+1880,Nebraska,452402
+1890,Nebraska,1062656
+1900,Nebraska,1066300
+1910,Nebraska,1192214
+1920,Nebraska,1296372
+1930,Nebraska,1377963
+1940,Nebraska,1315834
+1950,Nebraska,1325510
+1870,Nevada,42491
+1880,Nevada,62266
+1890,Nevada,47355
+1900,Nevada,42335
+1910,Nevada,81875
+1920,Nevada,77407
+1930,Nevada,91058
+1940,Nevada,110247
+1950,Nevada,160083
+1870,New Hampshire,318300
+1880,New Hampshire,346991
+1890,New Hampshire,376530
+1900,New Hampshire,411588
+1910,New Hampshire,430572
+1920,New Hampshire,443083
+1930,New Hampshire,465293
+1940,New Hampshire,491524
+1950,New Hampshire,533242
+1870,New Jersey,906096
+1880,New Jersey,1131116
+1890,New Jersey,1444933
+1900,New Jersey,1883669
+1910,New Jersey,2537167
+1920,New Jersey,3155900
+1930,New Jersey,4041334
+1940,New Jersey,4160165
+1950,New Jersey,4835329
+1870,New Mexico,91874
+1880,New Mexico,119565
+1890,New Mexico,160282
+1900,New Mexico,195310
+1910,New Mexico,327301
+1920,New Mexico,360350
+1930,New Mexico,423317
+1940,New Mexico,531818
+1950,New Mexico,681187
+1870,New York (state),4382759
+1880,New York (state),5082871
+1890,New York (state),6003174
+1900,New York (state),7268894
+1910,New York (state),9113614
+1920,New York (state),10385227
+1930,New York (state),12588066
+1940,New York (state),13479142
+1950,New York (state),14830192
+1870,North Carolina,1071361
+1880,North Carolina,1399750
+1890,North Carolina,1617947
+1900,North Carolina,1893810
+1910,North Carolina,2206287
+1920,North Carolina,2559123
+1930,North Carolina,3170276
+1940,North Carolina,3571623
+1950,North Carolina,4061929
+1870,North Dakota,2405
+1880,North Dakota,36909
+1890,North Dakota,190983
+1900,North Dakota,319146
+1910,North Dakota,577056
+1920,North Dakota,646872
+1930,North Dakota,680845
+1940,North Dakota,641935
+1950,North Dakota,619636
+1870,Ohio,2665260
+1880,Ohio,3198062
+1890,Ohio,3672316
+1900,Ohio,4157545
+1910,Ohio,4767121
+1920,Ohio,5759394
+1930,Ohio,6646697
+1940,Ohio,6907612
+1950,Ohio,7946627
+1870,Oklahoma,0
+1880,Oklahoma,0
+1890,Oklahoma,25865714
+1900,Oklahoma,79039115
+1910,Oklahoma,1657155
+1920,Oklahoma,2028283
+1930,Oklahoma,2396040
+1940,Oklahoma,2336434
+1950,Oklahoma,2233351
+1870,Oregon,90923
+1880,Oregon,174768
+1890,Oregon,317704
+1900,Oregon,413536
+1910,Oregon,672765
+1920,Oregon,783389
+1930,Oregon,953786
+1940,Oregon,1089684
+1950,Oregon,1521341
+1870,Panama Canal Zone,0
+1880,Panama Canal Zone,0
+1890,Panama Canal Zone,0
+1900,Panama Canal Zone,0
+1910,Panama Canal Zone,0
+1920,Panama Canal Zone,22858
+1930,Panama Canal Zone,39467
+1940,Panama Canal Zone,51827
+1950,Panama Canal Zone,52822
+1870,Pennsylvania,3521951
+1880,Pennsylvania,4282891
+1890,Pennsylvania,5258014
+1900,Pennsylvania,6302115
+1910,Pennsylvania,7665111
+1920,Pennsylvania,8720017
+1930,Pennsylvania,9631350
+1940,Pennsylvania,9900180
+1950,Pennsylvania,10498012
+1870,Puerto Rico,0
+1880,Puerto Rico,0
+1890,Puerto Rico,0
+1900,Puerto Rico,0
+1910,Puerto Rico,1118012
+1920,Puerto Rico,1299809
+1930,Puerto Rico,1543913
+1940,Puerto Rico,1869255
+1950,Puerto Rico,2210703
+1870,Rhode Island,217353
+1880,Rhode Island,276531
+1890,Rhode Island,345506
+1900,Rhode Island,428556
+1910,Rhode Island,542610
+1920,Rhode Island,604397
+1930,Rhode Island,687497
+1940,Rhode Island,713346
+1950,Rhode Island,791896
+1870,South Carolina,705606
+1880,South Carolina,995577
+1890,South Carolina,1151149
+1900,South Carolina,1340316
+1910,South Carolina,1515400
+1920,South Carolina,1683724
+1930,South Carolina,1738765
+1940,South Carolina,1899804
+1950,South Carolina,2117027
+1870,South Dakota,11776
+1880,South Dakota,98268
+1890,South Dakota,348600
+1900,South Dakota,401570
+1910,South Dakota,583888
+1920,South Dakota,636547
+1930,South Dakota,692849
+1940,South Dakota,642961
+1950,South Dakota,652740
+1870,Tennessee,1258520
+1880,Tennessee,1542359
+1890,Tennessee,1767518
+1900,Tennessee,2020616
+1910,Tennessee,2184789
+1920,Tennessee,2337885
+1930,Tennessee,2616556
+1940,Tennessee,2915841
+1950,Tennessee,3291718
+1870,Texas,818579
+1880,Texas,1591749
+1890,Texas,2235523
+1900,Texas,3048710
+1910,Texas,3896542
+1920,Texas,4663228
+1930,Texas,5824715
+1940,Texas,6414824
+1950,Texas,7711194
+1870,United States Virgin Islands,0
+1880,United States Virgin Islands,0
+1890,United States Virgin Islands,0
+1900,United States Virgin Islands,0
+1910,United States Virgin Islands,0
+1920,United States Virgin Islands,0
+1930,United States Virgin Islands,22012
+1940,United States Virgin Islands,39467
+1950,United States Virgin Islands,51827
+1870,Utah,86336
+1880,Utah,143963
+1890,Utah,210779
+1900,Utah,276749
+1910,Utah,373351
+1920,Utah,449396
+1930,Utah,507847
+1940,Utah,550310
+1950,Utah,688862
+1870,Vermont,330551
+1880,Vermont,332286
+1890,Vermont,332422
+1900,Vermont,343641
+1910,Vermont,355956
+1920,Vermont,352428
+1930,Vermont,359611
+1940,Vermont,359231
+1950,Vermont,377747
+1870,Virginia,1225163
+1880,Virginia,1512565
+1890,Virginia,1655980
+1900,Virginia,1854184
+1910,Virginia,2061612
+1920,Virginia,2309187
+1930,Virginia,2421851
+1940,Virginia,2677773
+1950,Virginia,3318680
+1870,Washington (state),23955
+1880,Washington (state),75116
+1890,Washington (state),357232
+1900,Washington (state),518103
+1910,Washington (state),1141990
+1920,Washington (state),1356621
+1930,Washington (state),1563396
+1940,Washington (state),1736191
+1950,Washington (state),2378963
+1870,West Virginia,442014
+1880,West Virginia,618457
+1890,West Virginia,762794
+1900,West Virginia,958800
+1910,West Virginia,1221119
+1920,West Virginia,1463701
+1930,West Virginia,1729205
+1940,West Virginia,1901974
+1950,West Virginia,2005552
+1870,Wisconsin,1054670
+1880,Wisconsin,1315497
+1890,Wisconsin,1693330
+1900,Wisconsin,2069042
+1910,Wisconsin,2333860
+1920,Wisconsin,2632067
+1930,Wisconsin,2939006
+1940,Wisconsin,3137587
+1950,Wisconsin,3434575
+1870,Wyoming,9118
+1880,Wyoming,20789
+1890,Wyoming,60705
+1900,Wyoming,92531
+1910,Wyoming,145965
+1920,Wyoming,194402
+1930,Wyoming,225565
+1940,Wyoming,250742
+1950,Wyoming,290529
+1870,United States,38558371
+1880,United States,50155783
+1890,United States,6297878017
+1900,United States,75994575
+1910,United States,91972266
+1920,United States,105710620
+1930,United States,122775046
+1940,United States,131669275
+1950,United States,150697361
+1960,Alabama,3266740
+1970,Alabama,3444165
+1980,Alabama,3893888
+1990,Alabama,4040587
+2000,Alabama,4447100
+2010,Alabama,4779736
+1960,Alaska,226167
+1970,Alaska,300382
+1980,Alaska,401851
+1990,Alaska,550043
+2000,Alaska,626932
+2010,Alaska,710231
+1960,American Samoa,20051
+1970,American Samoa,27159
+1980,American Samoa,32297
+1990,American Samoa,46773
+2000,American Samoa,57291
+2010,American Samoa,55519
+1960,Arizona,1302161
+1970,Arizona,1770900
+1980,Arizona,2718215
+1990,Arizona,3665228
+2000,Arizona,5130632
+2010,Arizona,6392017
+1960,Arkansas,1786272
+1970,Arkansas,1923295
+1980,Arkansas,2286435
+1990,Arkansas,2350725
+2000,Arkansas,2673400
+2010,Arkansas,2915918
+1960,California,15717204
+1970,California,19953134
+1980,California,23667902
+1990,California,29760021
+2000,California,33871648
+2010,California,37253956
+1960,Colorado,1753947
+1970,Colorado,2207259
+1980,Colorado,2889964
+1990,Colorado,3294394
+2000,Colorado,4301261
+2010,Colorado,5029196
+1960,Connecticut,2535234
+1970,Connecticut,3031709
+1980,Connecticut,3107576
+1990,Connecticut,3287116
+2000,Connecticut,3405565
+2010,Connecticut,3574097
+1960,Delaware,446292
+1970,Delaware,548104
+1980,Delaware,594338
+1990,Delaware,666168
+2000,Delaware,783600
+2010,Delaware,897934
+1960,"Washington, D.C.",763956
+1970,"Washington, D.C.",756510
+1980,"Washington, D.C.",638333
+1990,"Washington, D.C.",606900
+2000,"Washington, D.C.",572059
+2010,"Washington, D.C.",601723
+1960,Florida,4951560
+1970,Florida,6789443
+1980,Florida,9746324
+1990,Florida,12937926
+2000,Florida,15982378
+2010,Florida,18801310
+1960,Georgia (U.S. state),3943116
+1970,Georgia (U.S. state),4589575
+1980,Georgia (U.S. state),5463105
+1990,Georgia (U.S. state),6478216
+2000,Georgia (U.S. state),8186453
+2010,Georgia (U.S. state),9687653
+1960,Guam,67044
+1970,Guam,84966
+1980,Guam,105979
+1990,Guam,133152
+2000,Guam,154805
+2010,Guam,159358
+1960,Hawaii,632772
+1970,Hawaii,768561
+1980,Hawaii,964691
+1990,Hawaii,1108229
+2000,Hawaii,1211537
+2010,Hawaii,1360301
+1960,Idaho,667191
+1970,Idaho,712567
+1980,Idaho,943935
+1990,Idaho,1006749
+2000,Idaho,1293953
+2010,Idaho,1567582
+1960,Illinois,10081158
+1970,Illinois,11113976
+1980,Illinois,11426518
+1990,Illinois,11430602
+2000,Illinois,12419293
+2010,Illinois,12830632
+1960,Indiana,4662498
+1970,Indiana,5193669
+1980,Indiana,5490224
+1990,Indiana,5544159
+2000,Indiana,6080485
+2010,Indiana,6483802
+1960,Iowa,2757537
+1970,Iowa,2824376
+1980,Iowa,2913808
+1990,Iowa,2776755
+2000,Iowa,2926324
+2010,Iowa,3046355
+1960,Kansas,2178611
+1970,Kansas,2246578
+1980,Kansas,2363679
+1990,Kansas,2477574
+2000,Kansas,2688418
+2010,Kansas,2853118
+1960,Kentucky,3038156
+1970,Kentucky,3218706
+1980,Kentucky,3660777
+1990,Kentucky,3685296
+2000,Kentucky,4041769
+2010,Kentucky,4339367
+1960,Louisiana,3257022
+1970,Louisiana,3641306
+1980,Louisiana,4205900
+1990,Louisiana,4219973
+2000,Louisiana,4468976
+2010,Louisiana,4533372
+1960,Maine,969265
+1970,Maine,992048
+1980,Maine,1124660
+1990,Maine,1227928
+2000,Maine,1274923
+2010,Maine,1328361
+1960,Maryland,3100689
+1970,Maryland,3922399
+1980,Maryland,4216975
+1990,Maryland,4781468
+2000,Maryland,5296486
+2010,Maryland,5773552
+1960,Massachusetts,5148578
+1970,Massachusetts,5689170
+1980,Massachusetts,5737037
+1990,Massachusetts,6016425
+2000,Massachusetts,6349097
+2010,Massachusetts,6547629
+1960,Michigan,7823194
+1970,Michigan,8875083
+1980,Michigan,9262078
+1990,Michigan,9295297
+2000,Michigan,9938444
+2010,Michigan,9883640
+1960,Minnesota,3413864
+1970,Minnesota,3804971
+1980,Minnesota,4075970
+1990,Minnesota,4375099
+2000,Minnesota,4919479
+2010,Minnesota,5303925
+1960,Mississippi,2178141
+1970,Mississippi,2216912
+1980,Mississippi,2520638
+1990,Mississippi,2573216
+2000,Mississippi,2844658
+2010,Mississippi,2967297
+1960,Missouri,4319813
+1970,Missouri,4676501
+1980,Missouri,4916686
+1990,Missouri,5117073
+2000,Missouri,5595211
+2010,Missouri,5988927
+1960,Montana,674767
+1970,Montana,694409
+1980,Montana,786690
+1990,Montana,799065
+2000,Montana,902195
+2010,Montana,989415
+1960,Nebraska,1411330
+1970,Nebraska,1483493
+1980,Nebraska,1569825
+1990,Nebraska,1578385
+2000,Nebraska,1711263
+2010,Nebraska,1826341
+1960,Nevada,285278
+1970,Nevada,488738
+1980,Nevada,800493
+1990,Nevada,1201833
+2000,Nevada,1998257
+2010,Nevada,2700551
+1960,New Hampshire,606921
+1970,New Hampshire,737681
+1980,New Hampshire,920610
+1990,New Hampshire,1109252
+2000,New Hampshire,1235786
+2010,New Hampshire,1316470
+1960,New Jersey,6066782
+1970,New Jersey,7168164
+1980,New Jersey,7364823
+1990,New Jersey,7730188
+2000,New Jersey,8414350
+2010,New Jersey,8791894
+1960,New Mexico,951023
+1970,New Mexico,1016000
+1980,New Mexico,1302894
+1990,New Mexico,1515069
+2000,New Mexico,1819046
+2010,New Mexico,2059179
+1960,New York (state),16782304
+1970,New York (state),18236967
+1980,New York (state),17558072
+1990,New York (state),17990455
+2000,New York (state),18976457
+2010,New York (state),19378102
+1960,North Carolina,4556155
+1970,North Carolina,5082059
+1980,North Carolina,5881766
+1990,North Carolina,6628637
+2000,North Carolina,8049313
+2010,North Carolina,9535483
+1960,North Dakota,632446
+1970,North Dakota,617761
+1980,North Dakota,652717
+1990,North Dakota,638800
+2000,North Dakota,642200
+2010,North Dakota,672591
+1960,Northern Mariana Islands,0
+1970,Northern Mariana Islands,9460
+1980,Northern Mariana Islands,16780
+1990,Northern Mariana Islands,43345
+2000,Northern Mariana Islands,69221
+2010,Northern Mariana Islands,53883
+1960,Ohio,9706397
+1970,Ohio,10652017
+1980,Ohio,10797630
+1990,Ohio,10847115
+2000,Ohio,11353140
+2010,Ohio,11536504
+1960,Oklahoma,2328284
+1970,Oklahoma,2559229
+1980,Oklahoma,3025290
+1990,Oklahoma,3145585
+2000,Oklahoma,3450654
+2010,Oklahoma,3751351
+1960,Oregon,1768687
+1970,Oregon,2091385
+1980,Oregon,2633105
+1990,Oregon,2842321
+2000,Oregon,3421399
+2010,Oregon,3831074
+1960,Trust Territory of the Pacific Islands,0
+1970,Trust Territory of the Pacific Islands,70270
+1980,Trust Territory of the Pacific Islands,104033
+1990,Trust Territory of the Pacific Islands,0
+2000,Trust Territory of the Pacific Islands,0
+2010,Trust Territory of the Pacific Islands,0
+1960,Palau,0
+1970,Palau,11210
+1980,Palau,12116
+1990,Palau,15122
+2000,Palau,0
+2010,Palau,0
+1960,Panama Canal Zone,42112
+1970,Panama Canal Zone,44198
+1980,Panama Canal Zone,0
+1990,Panama Canal Zone,0
+2000,Panama Canal Zone,0
+2010,Panama Canal Zone,0
+1960,Pennsylvania,11319366
+1970,Pennsylvania,11793909
+1980,Pennsylvania,11863895
+1990,Pennsylvania,11881643
+2000,Pennsylvania,12281054
+2010,Pennsylvania,12702379
+1960,Puerto Rico,2349544
+1970,Puerto Rico,2712033
+1980,Puerto Rico,3196520
+1990,Puerto Rico,3522037
+2000,Puerto Rico,3808610
+2010,Puerto Rico,3725789
+1960,Rhode Island,859488
+1970,Rhode Island,946725
+1980,Rhode Island,947154
+1990,Rhode Island,1003464
+2000,Rhode Island,1048319
+2010,Rhode Island,1052567
+1960,South Carolina,2382594
+1970,South Carolina,2590516
+1980,South Carolina,3121820
+1990,South Carolina,3486703
+2000,South Carolina,4012012
+2010,South Carolina,4625364
+1960,South Dakota,680514
+1970,South Dakota,665507
+1980,South Dakota,690768
+1990,South Dakota,696004
+2000,South Dakota,754844
+2010,South Dakota,814180
+1960,Tennessee,3567089
+1970,Tennessee,3923687
+1980,Tennessee,4591120
+1990,Tennessee,4877185
+2000,Tennessee,5689283
+2010,Tennessee,6346105
+1960,Texas,9579677
+1970,Texas,11196730
+1980,Texas,14229191
+1990,Texas,16986510
+2000,Texas,20851820
+2010,Texas,25145561
+1960,United States Virgin Islands,32099
+1970,United States Virgin Islands,62468
+1980,United States Virgin Islands,96569
+1990,United States Virgin Islands,101809
+2000,United States Virgin Islands,108612
+2010,United States Virgin Islands,106405
+1960,Utah,890627
+1970,Utah,1059273
+1980,Utah,1461037
+1990,Utah,1722850
+2000,Utah,2233169
+2010,Utah,2763885
+1960,Vermont,389881
+1970,Vermont,444330
+1980,Vermont,511456
+1990,Vermont,562758
+2000,Vermont,608827
+2010,Vermont,625741
+1960,Virginia,3966949
+1970,Virginia,4648494
+1980,Virginia,5346818
+1990,Virginia,6187358
+2000,Virginia,7078515
+2010,Virginia,8001024
+1960,Washington (state),2853214
+1970,Washington (state),3409169
+1980,Washington (state),4132156
+1990,Washington (state),4866692
+2000,Washington (state),5894121
+2010,Washington (state),6724540
+1960,West Virginia,1860421
+1970,West Virginia,1744237
+1980,West Virginia,1949644
+1990,West Virginia,1793477
+2000,West Virginia,1808344
+2010,West Virginia,1852994
+1960,Wisconsin,3951777
+1970,Wisconsin,4417731
+1980,Wisconsin,4705767
+1990,Wisconsin,4891769
+2000,Wisconsin,5363675
+2010,Wisconsin,5686986
+1960,Wyoming,330066
+1970,Wyoming,332416
+1980,Wyoming,469557
+1990,Wyoming,453588
+2000,Wyoming,493782
+2010,Wyoming,563626
+1960,United States,179323175
+1970,United States,203211926
+1980,United States,226545805
+1990,United States,248709873
+2000,United States,281421906
+2010,United States,308745538
