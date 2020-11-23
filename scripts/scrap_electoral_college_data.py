@@ -15,7 +15,7 @@ def map_links_to_election_years(links):
 
 def main(output):
 	"""
-	Crawl a wiki page and extract data about each state's electorla college in the previous election years
+	Crawl a page and extract data about each state's electorla college in the previous election years
 
 	Parameters
 	----------
