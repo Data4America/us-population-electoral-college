@@ -11,11 +11,23 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 
 def map_links_to_election_years(links):
+	"""
+	Extract electoral years from links
+
+	Parameters
+	----------
+	additional : list of BeautifulSoup link instances
+		The BeautifulSoup link objects that contain the election years
+
+	Returns
+	-------
+	List of strings: An array of election years
+	"""
     return list(map(lambda x: int(x.attrs['title'][:4]), links))
 
 def main(output):
 	"""
-	Crawl a page and extract data about each state's electorla college in the previous election years
+	Crawl a page and extract data about each state's electorla college vote count in the previous election years
 
 	Parameters
 	----------

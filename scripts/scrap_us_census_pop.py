@@ -12,6 +12,18 @@ dname = os.path.dirname(abspath)
 os.chdir(dname)
 
 def select_pop_tables(tag):
+	"""
+	Identify a tag pointing to a population table 
+
+	Parameters
+	----------
+	tag : BeautifulSoup tag
+		The tag to identify whether it is a population table
+
+	Returns
+	-------
+	Boolean : Whether or not the tag is a population table
+	"""
     header = tag.find_previous_sibling(lambda tag: 'h' in tag.name)
     
     if tag.name != 'table' or not header:
@@ -36,6 +48,7 @@ def main(output):
 	request = requests.get(us_census_pop_wiki_link)
 	page = BeautifulSoup(request.text)
 
+	# Find all population tables
 	pop_tables = page.find_all(select_pop_tables)
 
 	year_col = []
@@ -49,6 +62,7 @@ def main(output):
 	    for row in pop_rows:
 	        columns = row.find_all('td')
 	        
+	        # Loop through columns to find the current state and its historical census population numbers
 	        state = ''
 	        for index, column in enumerate(columns):
 	            if 'name' in headers[index].text.lower():
