@@ -38,7 +38,7 @@ def main(output):
 
 	Parameters
 	----------
-	additional : output, optional
+	output : string, optional
 	    The path to output the data to (default is '/public_data')
 
 	Returns

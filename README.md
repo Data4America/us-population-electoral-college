@@ -18,6 +18,12 @@ python scripts/scrap_electoral_college_data.py
 
 for extracting the raw data
 
+```bash
+python scripts/synthesize_data.py
+```
+
+for combining the raw data
+
 # Visualization
 
 Look at `./notebooks/exploration.ipynb` for some initial exploration

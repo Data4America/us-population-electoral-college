@@ -16,7 +16,7 @@ def map_links_to_election_years(links):
 
 	Parameters
 	----------
-	additional : list of BeautifulSoup link instances
+	links : list of BeautifulSoup link instances
 		The BeautifulSoup link objects that contain the election years
 
 	Returns
@@ -31,7 +31,7 @@ def main(output):
 
 	Parameters
 	----------
-	additional : output, optional
+	output : string, optional
 	    The path to output the data to (default is '/public_data')
 
 	Returns
