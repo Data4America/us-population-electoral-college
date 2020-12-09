@@ -4,7 +4,11 @@ This project aims to look at the relationship between US electoral college votes
 
 # Data
 
-The data are from [electoral college wiki](https://en.wikipedia.org/wiki/United_States_Electoral_College) and [census population wiki](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_historical_population).
+Data sources:
+
+https://en.wikipedia.org/wiki/United_States_Electoral_College \
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_historical_population \ 
+https://en.wikipedia.org/wiki/List_of_United_States_counties_and_county_equivalents
 
 To run the scripts:
 
@@ -22,7 +26,7 @@ for extracting the raw data
 python scripts/synthesize_data.py
 ```
 
-for combining the raw data
+for combining the raw data between electoral college and state population data
 
 # Visualization
 
