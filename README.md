@@ -7,8 +7,9 @@ This project aims to look at the relationship between US electoral college votes
 Data sources:
 
 https://en.wikipedia.org/wiki/United_States_Electoral_College \
-https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_historical_population \ 
+https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_historical_population
 https://en.wikipedia.org/wiki/List_of_United_States_counties_and_county_equivalents
+
 
 To run the scripts:
 
